@@ -1,7 +1,11 @@
 ---
-title: "yty416.github.io"
+title: "Tianyi Yuan Portfolio"
 ---
 
-This is a Quarto website.
+# Project
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## AI Job Market Analysis
+
+This project examines the geographic distribution of AI-related job postings and compares traditional technology hubs with other metropolitan areas.
+
+The main finding is that AI-related jobs remain strong in major tech hubs, but a larger share of postings is found outside these hubs when considering the overall distribution.
