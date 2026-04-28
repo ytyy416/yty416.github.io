@@ -2,11 +2,45 @@
 title: "Tianyi Yuan Portfolio"
 ---
 
-# Project
+::: {.hero}
+# Tianyi Yuan
 
-## AI Job Market Analysis
+### Business Analytics Student | Data Analysis | AI & Labor Market Insights
 
-This project examines the geographic distribution of AI-related job postings and compares traditional technology hubs with other metropolitan areas.
+Welcome to my academic portfolio. This site highlights my interests in business analytics, data-driven decision-making, and the application of artificial intelligence in real-world business problems.
+:::
 
-The main finding is that AI-related jobs remain strong in major tech hubs, but a larger share of postings is found outside these hubs when considering the overall distribution.
-<!-- update -->
+## Featured Project
+
+::: {.project-card}
+### AI Job Market Analysis
+
+This project examines the geographic distribution of AI-related job postings across metropolitan areas in the United States.
+
+The analysis compares traditional technology hubs with other locations to understand whether AI-related opportunities are concentrated in a few major cities or more broadly distributed across regions.
+
+**Key Finding:**  
+AI-related jobs remain strong in major tech hubs, but a larger share of postings is found outside these hubs when considering the overall distribution.
+
+**Skills Used:**  
+Data analysis, geographic comparison, labor market analytics, visualization, business interpretation.
+:::
+
+## Portfolio Focus
+
+::: {.grid}
+::: {.box}
+### Data Analysis
+Using data to identify patterns, trends, and business insights.
+:::
+
+::: {.box}
+### Business Analytics
+Connecting technical results with business decisions and career implications.
+:::
+
+::: {.box}
+### AI Applications
+Exploring how AI affects labor markets, industries, and job opportunities.
+:::
+:::
