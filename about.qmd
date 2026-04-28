@@ -1,5 +1,9 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+# About Me
+
+My name is Tianyi Yuan. I am a graduate student in Business Analytics at Boston University.
+
+My interests include data analysis, business intelligence, machine learning, and the business applications of artificial intelligence.
