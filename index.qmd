@@ -9,3 +9,4 @@ title: "Tianyi Yuan Portfolio"
 This project examines the geographic distribution of AI-related job postings and compares traditional technology hubs with other metropolitan areas.
 
 The main finding is that AI-related jobs remain strong in major tech hubs, but a larger share of postings is found outside these hubs when considering the overall distribution.
+<!-- update -->
