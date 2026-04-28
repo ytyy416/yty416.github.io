@@ -2,8 +2,45 @@
 title: "About Me"
 ---
 
+::: {.about-section}
+
 # About Me
 
-My name is Tianyi Yuan. I am a graduate student in Business Analytics at Boston University.
+Hi, I'm **Tianyi Yuan**, a graduate student in **Business Analytics at Boston University**.
 
-My interests include data analysis, business intelligence, machine learning, and the business applications of artificial intelligence.
+I am interested in data analysis, business intelligence, and the application of artificial intelligence in solving real-world business problems. My goal is to combine technical skills with business thinking to make data-driven decisions.
+
+## Career Interests
+
+- Business Analytics  
+- Data Science  
+- Machine Learning Applications  
+- AI and Labor Market Analysis  
+- Financial and Business Decision-Making  
+
+## Technical Skills
+
+- Python  
+- SQL  
+- Data Visualization  
+- GitHub / GitHub Pages  
+- Quarto  
+- Excel and Power BI  
+
+## Outside of Work
+
+Outside of academics, I enjoy staying active and exploring different interests:
+
+- 🏊 Swimming  
+- 🏓 Table Tennis  
+- 🏸 Badminton  
+- 💪 Fitness / Gym  
+- 🎷 Playing the Saxophone  
+
+I find that these activities help me stay disciplined, focused, and balanced.
+
+## Academic Focus
+
+Through my coursework and projects, I am developing the ability to clean, analyze, and interpret data in ways that support business strategy and decision-making.
+
+:::
